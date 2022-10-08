@@ -1,4 +1,4 @@
-###About Making This Calculator
+### About Making This Calculator
 
 This is the first challenge I undertook in C programming.
 
@@ -6,7 +6,7 @@ I had written a calculator before in python, but it was a breeze since python is
 
 However, I must confess i struggled a lot on C, but I was determined to do it with little to no help.
 
-#My Lessons Learnt:
+# My Lessons Learnt:
 
 1. Most important lesson that this task re-emphasized was pseudocode: stating your program in plain english.
 
