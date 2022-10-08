@@ -8,7 +8,7 @@ However, I must confess i struggled a lot on C, but I was determined to do it wi
 
 # My Lessons Learnt:
 
-1. Most important lesson that this task re-emphasized was pseudocode: stating your program in plain english.
+1. The most important lesson this task re-emphasized was pseudocode: stating your program/problem in plain english.
 
 2. Order cannot be over-emphasized: Lesson one above can go a long way to ensuring this.
 
